@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragment Color Practice</string>
+    <string name="ui_tabname_red">Red</string>
+    <string name="ui_tabname_green">Green</string>
+    <string name="ui_tabname_blue">Blue</string>
+    <string name="ui_tabname_white">White</string>
+    <string name="ui_tabname_light">Light Years</string>
+    <string name="ui_tabname_mile">Miles</string>
+</resources>

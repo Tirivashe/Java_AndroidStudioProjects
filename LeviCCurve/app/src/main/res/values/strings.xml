@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Levi C-Curve</string>
+
+    <string name="draw_btn">Draw</string>
+    <string name="up_btn">+</string>
+    <string name="down_btn">-</string>
+    <string name="start_lvl">1</string>
+</resources>

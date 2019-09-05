@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/background"
+    tools:context="com.tirivashe.soundjukebox.MyActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/app_title"
+        android:contentDescription="@string/app_name"/>
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:src="@mipmap/bell_clang"
+        android:contentDescription="@string/bell_clang"/>
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageButton1"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/funky_gong"
+        android:contentDescription="@string/funky_gong"/>
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageButton2"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/random_ha"
+        android:contentDescription="@string/random_ha"/>
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageButton3"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/spooky_cry"
+        android:contentDescription="@string/spooky_cry"/>
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageButton4"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/drum_solo"
+        android:contentDescription="@string/drum_solo"/>
+
+</RelativeLayout>

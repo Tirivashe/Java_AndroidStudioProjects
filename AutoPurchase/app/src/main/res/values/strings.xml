@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Auto Purchase</string>
+
+    <string name="title_activity_main">Car Dealership</string>
+    <string name="instruction">Enter car purchase information</string>
+    <string name="dollar_sign">$</string>
+    <string name="car_price">What is the price of your car?</string>
+    <string name="down_payment">What is your cash down payment?</string>
+    <string name="loan_term">Choose your loan term</string>
+    <string name="years_2">2 years</string>
+    <string name="years_3">3 years</string>
+    <string name="years_4">4 years</string>
+    <string name="loan_summary">Your loan summary</string>
+    <string name="generate_btn">Loan Report</string>
+    <string name="go_data_entry">Return to Data Entry</string>
+
+    <string name="report_line_1"> \n\t\t\t<b>Monthly Payment:</b>\t$</string>
+    <string name="report_line_2"> \n\n\nNOTE: </string>
+    <string name="report_line_3"> \n1. Loan Information is made available by Tom\'s Car Dealership.</string>
+    <string name="report_line_4"> \n\n2. A sales tax rate of 7% is required in the state of California.</string>
+    <string name="report_line_5"> \n\n3. Vehicles are financed at an annual interest rate of 9%.\n\n</string>
+    <string name="report_line_6"> \n\tCar Sticker Price: $</string>
+    <string name="report_line_7"> \n\tYou will put down: $</string>
+    <string name="report_line_8"> \n\tLoan Term is </string>
+    <string name="report_line_9"> \n\tTaxed Amt: $</string>
+    <string name="report_line_10"> \n\tYour Cost: $</string>
+    <string name="report_line_11"> \n\tBorrowed Amount: $</string>
+    <string name="report_line_12"> \n\tInterest Amount: $</string>
+</resources>

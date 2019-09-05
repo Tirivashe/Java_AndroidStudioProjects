@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello World</string>
+    <string name="Hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--String used for the Button-->
+    <string name="exclaim_button">Exclamation</string>
+
+    <!--String used for Output-->
+    <string name="hello">Hello</string>
+    <string name="goodbye">goodbye</string>
+
+    <!--Description of the image of the girl-->
+    <string name="exclaim_img">Exclamation image</string>
+
+</resources>

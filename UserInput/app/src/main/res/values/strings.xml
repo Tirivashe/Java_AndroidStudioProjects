@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">User Input</string>
+    <string name="edit_text">Text Here</string>
+    <string name="user_input">You have entered </string>
+</resources>
